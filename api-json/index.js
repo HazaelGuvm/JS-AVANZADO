@@ -39,7 +39,7 @@ const server = http.createServer((request,response) =>{
                 const stringObject = JSON.stringify(responseObject)
                 response.writeHead(status,mimeType)
                 response.write(stringObject)
-                response.end() ye
+                response.end()
 
 })
 

@@ -35,6 +35,7 @@ const server = http.createServer((request,response) =>{
 
     }else{
         //reto :404
+        console.log
     }
 
                 const stringObject = JSON.stringify(responseObject)
