@@ -1,0 +1,14 @@
+bootstrap
+
+1.0.0
+
+warning: #ffff
+1.0.1
+primary-button pinta boton sin bordes
+1.0.2
+uso de nueva funcionalidad webkits
+1.1.0
+bootstrap deja en desuso los webkits
+2.0.0
+se necesitan agregar 10 nuevos colores de google
+2.1.0
